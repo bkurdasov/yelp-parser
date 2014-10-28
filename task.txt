@@ -1,0 +1,16 @@
+I need to scrape 1 page deep off a list of base URLs that I can provide when we agree to terms.
+
+Example of a page you'd be scraping for data: http://www.yelp.com/biz/tim-gullicksen-san-francisco-2
+
+The columns I need from that page:
+1) Name (e.g. Tim Gullicksen)
+2) Group (e.g. Real Estate Agents)
+3) Address (e.g. Zephyr Real Estate 2523 California St)
+4) City (e.g. San Francisco)
+5) State (e.g. CA)
+6) Zip (e.g. 94115)
+7) Neighborhood (e.g. Pacific Heights, Lower Pacific Heights)
+8) Phone (e.g. 415 370-5277)
+9) Website (e.g. timgullicksen.com)
+
+One-time Project: Scraping Yelp
